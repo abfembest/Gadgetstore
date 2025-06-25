@@ -28,7 +28,7 @@ is a robust tech retail management system tailored specifically for electronic a
 ---
 
 ## 📂 Folder Structure
-gadgetrix/
+gadgetstore/
 ├── config/ # Configuration files
 ├── db/ # SQL dump and migrations
 ├── public/ # Public-facing files (CSS/JS)
