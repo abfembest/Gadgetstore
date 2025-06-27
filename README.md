@@ -1,6 +1,6 @@
 # 📱 Gadgetstore – Gadget Store Management System
 
-**Gadgetrix** is a web-based gadget and electronics retail management system designed to streamline operations for tech stores. From inventory tracking to customer billing, repairs, and analytics, Gadgetrix offers a full suite of tools for efficient store management.
+**Gadgetstore** is a web-based gadget and electronics retail management system designed to streamline operations for tech stores. From inventory tracking to customer billing, repairs, and analytics, Gadgetrix offers a full suite of tools for efficient store management.
 
 ---
 
